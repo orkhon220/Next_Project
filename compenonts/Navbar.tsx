@@ -15,7 +15,6 @@ const Navbar = () => {
                  className='object-contain'
           />
         </Link>
-
         <CustomButton 
         title='Sign In'
         btnType="button"
@@ -23,7 +22,6 @@ const Navbar = () => {
         rounded-full bg-while min-w-[130px]" 
         />
       </nav>
-
     </header>
   )
 }
